@@ -19,7 +19,8 @@ Antimicrobial resistance (AMR) has become one of the serious global health probl
     | Ref_allele  | A          | T          | G          | ...  | C          |
     | Sample_1    | G          | A          | A          | ...  | T          |
     | Sample_2    | G          | N          | A          | ...  | T          |
-    | ...         | ...        | ...        | ...        | ...  |            |
+    | Sample_3    | G.         | A.         | C.         | ...  | G          |
+    | ...         | ...        | ...        | ...        | ...  | ...        |
     | Sample_m    | T          | A          | A          | ...  | T          |
 
 - Encoding SNP-natrix
